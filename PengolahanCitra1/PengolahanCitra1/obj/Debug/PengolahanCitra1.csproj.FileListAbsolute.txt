@@ -1,0 +1,18 @@
+E:\KULIAH PENS\Semester 4\PengolahanCitra1\PengolahanCitra1\bin\Debug\PengolahanCitra1.exe.config
+E:\KULIAH PENS\Semester 4\PengolahanCitra1\PengolahanCitra1\bin\Debug\PengolahanCitra1.exe
+E:\KULIAH PENS\Semester 4\PengolahanCitra1\PengolahanCitra1\bin\Debug\PengolahanCitra1.pdb
+E:\KULIAH PENS\Semester 4\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.csprojResolveAssemblyReference.cache
+E:\KULIAH PENS\Semester 4\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.Form1.resources
+E:\KULIAH PENS\Semester 4\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.Properties.Resources.resources
+E:\KULIAH PENS\Semester 4\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.csproj.GenerateResource.Cache
+E:\KULIAH PENS\Semester 4\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.exe
+E:\KULIAH PENS\Semester 4\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.pdb
+C:\Users\user\Downloads\PengolahanCitra1\PengolahanCitra1\bin\Debug\PengolahanCitra1.exe.config
+C:\Users\user\Downloads\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.exe
+C:\Users\user\Downloads\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.pdb
+C:\Users\user\Downloads\PengolahanCitra1\PengolahanCitra1\bin\Debug\PengolahanCitra1.exe
+C:\Users\user\Downloads\PengolahanCitra1\PengolahanCitra1\bin\Debug\PengolahanCitra1.pdb
+C:\Users\user\Downloads\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.Form1.resources
+C:\Users\user\Downloads\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.Properties.Resources.resources
+C:\Users\user\Downloads\PengolahanCitra1\PengolahanCitra1\obj\Debug\PengolahanCitra1.csproj.GenerateResource.Cache
